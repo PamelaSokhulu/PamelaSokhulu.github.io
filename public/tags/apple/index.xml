@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple on Apple Lady</title>
+    <link>http://localhost:1313/tags/apple/</link>
+    <description>Recent content in Apple on Apple Lady</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Jan 2025 00:30:26 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Evolution of iPhone: A Look at Apple&#39;s Pioneering Smartphone</title>
+      <link>http://localhost:1313/post/post-8/</link>
+      <pubDate>Sat, 04 Jan 2025 00:30:26 +0200</pubDate>
+      <guid>http://localhost:1313/post/post-8/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/the-evolution-of-iphone.jpg&#34; alt=&#34;Alt text for image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;br&gt;&#xA;The iPhone, since its inception in 2007, has drastically changed the way we use mobile technology. Apple revolutionized the smartphone market with its unique combination of touch-screen interfaces, powerful hardware, and seamless software. Each new iPhone model builds upon the success of its predecessor, introducing innovative features that have set the&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

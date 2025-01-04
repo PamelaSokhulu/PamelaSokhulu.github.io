@@ -1,11 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on Apple Lady</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on Apple Lady</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Jan 2025 00:30:52 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Iphone</title>
+      <link>http://localhost:1313/tags/iphone/</link>
+      <pubDate>Sat, 04 Jan 2025 00:30:52 +0200</pubDate>
+      <guid>http://localhost:1313/tags/iphone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iphone 15</title>
+      <link>http://localhost:1313/tags/iphone-15/</link>
+      <pubDate>Sat, 04 Jan 2025 00:30:52 +0200</pubDate>
+      <guid>http://localhost:1313/tags/iphone-15/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Camera</title>
+      <link>http://localhost:1313/tags/camera/</link>
+      <pubDate>Sat, 04 Jan 2025 00:30:43 +0200</pubDate>
+      <guid>http://localhost:1313/tags/camera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iphone 16</title>
+      <link>http://localhost:1313/tags/iphone-16/</link>
+      <pubDate>Sat, 04 Jan 2025 00:30:43 +0200</pubDate>
+      <guid>http://localhost:1313/tags/iphone-16/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apple</title>
+      <link>http://localhost:1313/tags/apple/</link>
+      <pubDate>Sat, 04 Jan 2025 00:30:26 +0200</pubDate>
+      <guid>http://localhost:1313/tags/apple/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IOS</title>
+      <link>http://localhost:1313/tags/ios/</link>
+      <pubDate>Sat, 04 Jan 2025 00:24:27 +0200</pubDate>
+      <guid>http://localhost:1313/tags/ios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Settings</title>
+      <link>http://localhost:1313/tags/settings/</link>
+      <pubDate>Sat, 04 Jan 2025 00:23:58 +0200</pubDate>
+      <guid>http://localhost:1313/tags/settings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iphone 17 Air</title>
+      <link>http://localhost:1313/tags/iphone-17-air/</link>
+      <pubDate>Sat, 04 Jan 2025 00:23:35 +0200</pubDate>
+      <guid>http://localhost:1313/tags/iphone-17-air/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
